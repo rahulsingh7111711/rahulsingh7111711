@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rahulsingh7111711
-- 👀 I’m interested in different languages i.e. c,cppHTML, Python, MySQL
+- 👀 I’m interested in different languages i.e. c,cpp,HTML, Python, MySQL
 - 🌱 I’m currently learning Python and cpp
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
