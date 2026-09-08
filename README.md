@@ -9,6 +9,12 @@
 ![](https://streak-stats.demolab.com/?user=rahulsingh7111711&theme=onedark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=rahulsingh7111711&theme=onedark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
